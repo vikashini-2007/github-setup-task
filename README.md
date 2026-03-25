@@ -1,2 +1,7 @@
-# github-setup-task
-My first GitHub repository
+# GitHub Setup Task
+
+Name: Vikashini 
+Department: Information Technology  
+Year: 1
+
+This is my first GitHub repository
